@@ -1,0 +1,60 @@
+﻿A sóder (homokos kavics) szemcseméret szerinti osztályozása szabványos tartományok alapján történik. 
+
+A leggyakoribb frakciók:
+
+■ Finom szemcsék (homok)
+	0–2 mm → vakoláshoz, finom betonhoz
+	0–4 mm → általános betonhoz, térkő alá
+■ Közepes szemcsék
+	4–8 mm → finom kavics, díszítéshez, drénezéshez
+	4–16 mm → beton adalék, általános építési cél
+■ Durva szemcsék
+	8–16 mm → betonhoz, alapokhoz
+	16–32 mm → durva kavics, alapozás, vízelvezetés
+■ Nagy szemcsék / zúzottkő
+	32–63 mm → töltés, útalap
+	63 mm felett → kőszórás, nagy terhelésű alapok
+
+Gyakori kombinált (kevert) frakciók
+	0–4 mm → „sóder” (homokos keverék)
+	0–16 mm → betonhoz az egyik leggyakoribb
+	0–24 mm / 0–32 mm → útalap, tömöríthető réteg
+
+
+Betonreceptekben a sóder frakciója a kívánt beton tulajdonságaitól függően változik. 
+Finomabb szemcsék simább felületet és jobb megmunkálhatóságot biztosítanak, míg durvább szemcsék nagyobb szilárdságot és tartósságot eredményeznek. 
+A megfelelő frakció kiválasztása kulcsfontosságú a beton minősége és teljesítménye szempontjából.
+
+A betonreceptek a beton szilárdságát és minőségét meghatározó arányokat tartalmazzák, amelyek a cement, a sóder és a víz mennyiségét jelölik.
+A „C” az angol Concrete (beton) rövidítése, és mindig két szám követi:
+
+👉 C X/Y
+	X = hengerpróbán mért nyomószilárdság (MPa)
+	Y = kockapróbán mért nyomószilárdság (MPa)
+
+Példa:C 20/25
+	Ez azt jelenti:
+		20 MPa → hengeres próbatesten
+		25 MPa → kocka próbatesten
+
+	📌 (1 MPa ≈ 10 bar ≈ 10 kg/cm² nagyságrend)
+
+Felhasználási területek a beton szilárdsági osztályai szerint:
+
+	C8/10	Ideiglenes szerkezetek, földtöltés
+	C12/15	Kerti beton, kisebb alapok, szegélykövek megtámasztása
+	C16/20	Családi házak alapja, lábazat, járda
+	C20/25	Főfalak, lemezgarázs alapja, aljzatbeton, kocsibeálló
+	C25/30	Födémek, pillérek, teherhordó szerkezetek
+
+A beton receptekben a cement, a sóder és a víz arányát gyakran tömegarányban adják meg.
+Például egy C20/25 beton receptje lehet:
+Cement : Sóder : Víz = 1 : 2 : 0.5
+
+Betonreceptek
+Könnyebb számolni viszont súlyaránnyal 1m3-re vonatkozóan: Sóder kg:Cement kg:Víz liter
+C8/10 1900 : 250 : 200
+C12/15 1781 : 315 : 205
+C16/20 1736 : 350 : 210
+C20/25 1709 : 380 : 210
+C25/30 1675 : 400 : 215

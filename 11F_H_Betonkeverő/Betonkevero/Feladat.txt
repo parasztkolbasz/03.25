@@ -1,0 +1,18 @@
+Feladat ismertetése
+
+Elõzetes tudnivalók:
+	? A Recept és Keszbeton osztályokat nem módosíthatja! 
+
+Amiben dolgozhat az a Keverotelep.cs és a Program.cs állományok.
+
+
+Osztályok szerepe:
+Recept    - Ez az osztály egy betonreceptet reprezentál, 
+			amely tartalmazza a beton szilárdsági osztályát (pl. C20/25), valamint a cement, sóder és víz arányát.
+Keszbeton - Ez az osztály egy kész betonkeveréket reprezentál, amely egy adott recept alapján készült. 
+			Tartalmazza a receptet, a keverék mennyiségét (m3-ben) és a készítés idõpontját.
+Keverotelep - Ez az osztály a betonkeverõ telepet reprezentálja, ahol különbözõ betonrecepteket lehet létrehozni és kész betonkeverékeket gyártani. 
+			Tartalmaz egy listát a rendelkezésre álló receptekrõl és egy listát a gyártott kész betonkeverékekrõl. 
+			Lehetõséget biztosít új receptek hozzáadására és új kész betonkeverékek gyártására egy adott recept alapján.
+			Nyilvántartja a telepen rendelkezésre álló sóder és cement mennyiségét. 
+			A rendelkezésre álló víz mennyiségét vegyük korlátlannak, így azt nem kell nyilvántartani.

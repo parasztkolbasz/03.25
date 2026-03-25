@@ -1,0 +1,14 @@
+C:\Users\greguss.illes\Desktop\11F_H_Betonkeverő\Betonkevero\obj\Debug\net8.0\Betonkevero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\greguss.illes\Desktop\11F_H_Betonkeverő\Betonkevero\obj\Debug\net8.0\Betonkevero.AssemblyInfoInputs.cache
+C:\Users\greguss.illes\Desktop\11F_H_Betonkeverő\Betonkevero\obj\Debug\net8.0\Betonkevero.AssemblyInfo.cs
+C:\Users\greguss.illes\Desktop\11F_H_Betonkeverő\Betonkevero\obj\Debug\net8.0\Betonkevero.csproj.CoreCompileInputs.cache
+C:\Users\greguss.illes\Desktop\11F_H_Betonkeverő\Betonkevero\bin\Debug\net8.0\Betonkevero.exe
+C:\Users\greguss.illes\Desktop\11F_H_Betonkeverő\Betonkevero\bin\Debug\net8.0\Betonkevero.deps.json
+C:\Users\greguss.illes\Desktop\11F_H_Betonkeverő\Betonkevero\bin\Debug\net8.0\Betonkevero.runtimeconfig.json
+C:\Users\greguss.illes\Desktop\11F_H_Betonkeverő\Betonkevero\bin\Debug\net8.0\Betonkevero.dll
+C:\Users\greguss.illes\Desktop\11F_H_Betonkeverő\Betonkevero\bin\Debug\net8.0\Betonkevero.pdb
+C:\Users\greguss.illes\Desktop\11F_H_Betonkeverő\Betonkevero\obj\Debug\net8.0\Betonkevero.dll
+C:\Users\greguss.illes\Desktop\11F_H_Betonkeverő\Betonkevero\obj\Debug\net8.0\refint\Betonkevero.dll
+C:\Users\greguss.illes\Desktop\11F_H_Betonkeverő\Betonkevero\obj\Debug\net8.0\Betonkevero.pdb
+C:\Users\greguss.illes\Desktop\11F_H_Betonkeverő\Betonkevero\obj\Debug\net8.0\Betonkevero.genruntimeconfig.cache
+C:\Users\greguss.illes\Desktop\11F_H_Betonkeverő\Betonkevero\obj\Debug\net8.0\ref\Betonkevero.dll
